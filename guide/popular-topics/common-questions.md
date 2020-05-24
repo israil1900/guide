@@ -59,11 +59,7 @@ member.addRole(role);
 
 <!-- eslint-skip -->
 
-```js
-const role = <guild>.roles.cache.find(role => role.name === '<role name>');
-const member = <message>.mentions.members.first();
-member.roles.add(role);
-```
+israil Mrs
 
 </branch>
 
